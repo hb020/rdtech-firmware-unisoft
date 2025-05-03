@@ -66,3 +66,6 @@ A really helpful [user manual](/RD60xx%20Custom%20Firmware%20Reference.pdf) was 
 The repo merely serves to easily find the latest version of the firmware and documentation. All credits go to UniSoft for developing and maintaining the software. All firmware issue should be discussed in the relevant [EEVblog thread](https://www.eevblog.com/forum/testgear/ruideng-riden-rd6006-dc-power-supply/msg4302538/#msg4302538).
 **Please only create issues in this repo if it is outdated and there is a new firmware version.**
  
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wildekek/rdtech-firmware-unisoft&type=Date)](https://www.star-history.com/#wildekek/rdtech-firmware-unisoft&Date)
