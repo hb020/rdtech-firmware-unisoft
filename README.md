@@ -17,7 +17,7 @@ This repo is a mirror of alternative firmware created by [UniSoft](https://www.e
 - RD6018P model: 60185
 - RD6024  model: 60241
 - RD6030  model: 60301
-- any other power supplies from Riden, like the RK or DPS/DPH series 
+- any other power supplies from Riden, like the RK or DPS/DPH or DP series 
 
 ## Installation instructions
 
