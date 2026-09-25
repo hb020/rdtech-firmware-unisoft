@@ -1,6 +1,6 @@
 # UniSoft RDtech Firmware Mirror
 
-This repo is a mirror of alternative firmware created by [UniSoft](https://www.eevblog.com/forum/profile/?u=682208) for the RD family of power supplies by [RD Tech](https://rdtech.aliexpress.com/store/923042).
+This repo is a mirror of alternative firmware created by [UniSoft](https://www.eevblog.com/forum/profile/?u=682208) for the RD family of power supplies by [RD Tech](https://rdtech.en.alibaba.com/).
 
 # What RD60xx power supplies are supported
 
@@ -17,7 +17,7 @@ This repo is a mirror of alternative firmware created by [UniSoft](https://www.e
 - RD6018P model: 60185
 - RD6024  model: 60241
 - RD6030  model: 60301
-- any other power supplies from Riden, like the RK series 
+- any other power supplies from Riden, like the RK or DPS/DPH series 
 
 ## Installation instructions
 
